@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="n8EsOzykJix-w6ePL4Zs-142" value="contains" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="4" target="n8EsOzykJix-w6ePL4Zs-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4" value="Yankee Hotel Foxtrot" style="whiteSpace=wrap;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=17;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="153" y="227" width="217" height="86" as="geometry" />
         </mxCell>
@@ -14,6 +17,14 @@
         </mxCell>
         <mxCell id="n8EsOzykJix-w6ePL4Zs-93" value="versions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="n8EsOzykJix-w6ePL4Zs-91">
           <mxGeometry x="-0.1001" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n8EsOzykJix-w6ePL4Zs-131" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5" target="n8EsOzykJix-w6ePL4Zs-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8EsOzykJix-w6ePL4Zs-132" value="contains" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="n8EsOzykJix-w6ePL4Zs-131">
+          <mxGeometry x="-0.231" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -75,8 +86,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="n8EsOzykJix-w6ePL4Zs-154" value="contains" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="n8EsOzykJix-w6ePL4Zs-28" target="n8EsOzykJix-w6ePL4Zs-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n8EsOzykJix-w6ePL4Zs-28" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 19px;&quot;&gt;MoonSafari&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="556" y="220.5" width="239.5" height="89.5" as="geometry" />
+          <mxGeometry x="595" y="220" width="239.5" height="89.5" as="geometry" />
         </mxCell>
         <mxCell id="n8EsOzykJix-w6ePL4Zs-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n8EsOzykJix-w6ePL4Zs-53" target="n8EsOzykJix-w6ePL4Zs-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -306,6 +320,52 @@
               <mxPoint x="544" y="518" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="n8EsOzykJix-w6ePL4Zs-139" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="n8EsOzykJix-w6ePL4Zs-127" target="n8EsOzykJix-w6ePL4Zs-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8EsOzykJix-w6ePL4Zs-140" value="contains" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="n8EsOzykJix-w6ePL4Zs-139">
+          <mxGeometry x="0.0086" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n8EsOzykJix-w6ePL4Zs-127" value="Track list" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-148" y="338" width="102" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="n8EsOzykJix-w6ePL4Zs-135" value="&lt;table style=&quot;border-collapse: collapse; line-height: 18px; width: 803.594px; table-layout: auto; color: rgb(0, 0, 0); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Nimbus Sans&amp;quot;, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;tracklist_4KOvL&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;vertical-align: top; border-top: 0px;&quot; data-track-position=&quot;A1&quot;&gt;&lt;td style=&quot;padding: 2px 0px; position: relative; white-space: nowrap; width: 0.0703125px;&quot; class=&quot;position_2Kr__&quot;&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px 0px; width: 0px;&quot; class=&quot;artist_1mUch&quot;&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px; width: 787.516px; word-break: break-word; position: relative;&quot; class=&quot;trackTitleNoArtist_ANE8Q&quot;&gt;&lt;span style=&quot;user-select: text !important;&quot;&gt;Funeral For Justice&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px 10px 2px 2px; color: rgb(68, 68, 68); width: 0.0078125px;&quot; class=&quot;duration_25zMZ&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top; border-top: 1px solid rgb(229, 229, 229);&quot; data-track-position=&quot;A2&quot;&gt;&lt;td style=&quot;padding: 2px 0px; position: relative; white-space: nowrap; width: 0.0703125px;&quot; class=&quot;position_2Kr__&quot;&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px 0px; width: 0px;&quot; class=&quot;artist_1mUch&quot;&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px; width: 787.516px; word-break: break-word; position: relative;&quot; class=&quot;trackTitleNoArtist_ANE8Q&quot;&gt;&lt;span style=&quot;user-select: text !important;&quot;&gt;Imouhar&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px 10px 2px 2px; color: rgb(68, 68, 68); width: 0.0078125px;&quot; class=&quot;duration_25zMZ&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top; border-top: 1px solid rgb(229, 229, 229);&quot; data-track-position=&quot;A3&quot;&gt;&lt;td style=&quot;padding: 2px 0px; position: relative; white-space: nowrap; width: 0.0703125px;&quot; class=&quot;position_2Kr__&quot;&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px 0px; width: 0px;&quot; class=&quot;artist_1mUch&quot;&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px; width: 787.516px; word-break: break-word; position: relative;&quot; class=&quot;trackTitleNoArtist_ANE8Q&quot;&gt;&lt;span style=&quot;user-select: text !important;&quot;&gt;Takoba&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px 10px 2px 2px; color: rgb(68, 68, 68); width: 0.0078125px;&quot; class=&quot;duration_25zMZ&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top; border-top: 1px solid rgb(229, 229, 229);&quot; data-track-position=&quot;A4&quot;&gt;&lt;td style=&quot;padding: 2px 0px; position: relative; white-space: nowrap; width: 0.0703125px;&quot; class=&quot;position_2Kr__&quot;&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px 0px; width: 0px;&quot; class=&quot;artist_1mUch&quot;&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px; width: 787.516px; word-break: break-word; position: relative;&quot; class=&quot;trackTitleNoArtist_ANE8Q&quot;&gt;&lt;span style=&quot;user-select: text !important;&quot;&gt;Sousoume Tamacheq&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px 10px 2px 2px; color: rgb(68, 68, 68); width: 0.0078125px;&quot; class=&quot;duration_25zMZ&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top; border-top: 1px solid rgb(229, 229, 229);&quot; data-track-position=&quot;B1&quot;&gt;&lt;td style=&quot;padding: 2px 0px; position: relative; white-space: nowrap; width: 0.0703125px;&quot; class=&quot;position_2Kr__&quot;&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px 0px; width: 0px;&quot; class=&quot;artist_1mUch&quot;&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px; width: 787.516px; word-break: break-word; position: relative;&quot; class=&quot;trackTitleNoArtist_ANE8Q&quot;&gt;&lt;span style=&quot;user-select: text !important;&quot;&gt;Imajighen&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px 10px 2px 2px; color: rgb(68, 68, 68); width: 0.0078125px;&quot; class=&quot;duration_25zMZ&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top; border-top: 1px solid rgb(229, 229, 229);&quot; data-track-position=&quot;B2&quot;&gt;&lt;td style=&quot;padding: 2px 0px; position: relative; white-space: nowrap; width: 0.0703125px;&quot; class=&quot;position_2Kr__&quot;&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px 0px; width: 0px;&quot; class=&quot;artist_1mUch&quot;&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px; width: 787.516px; word-break: break-word; position: relative;&quot; class=&quot;trackTitleNoArtist_ANE8Q&quot;&gt;&lt;span style=&quot;user-select: text !important;&quot;&gt;Tchinta&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px 10px 2px 2px; color: rgb(68, 68, 68); width: 0.0078125px;&quot; class=&quot;duration_25zMZ&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top; border-top: 1px solid rgb(229, 229, 229);&quot; data-track-position=&quot;B3&quot;&gt;&lt;td style=&quot;padding: 2px 0px; position: relative; white-space: nowrap; width: 0.0703125px;&quot; class=&quot;position_2Kr__&quot;&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px 0px; width: 0px;&quot; class=&quot;artist_1mUch&quot;&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px; width: 787.516px; word-break: break-word; position: relative;&quot; class=&quot;trackTitleNoArtist_ANE8Q&quot;&gt;&lt;span style=&quot;user-select: text !important;&quot;&gt;Djallo #1&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px 10px 2px 2px; color: rgb(68, 68, 68); width: 0.0078125px;&quot; class=&quot;duration_25zMZ&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top; border-top: 1px solid rgb(229, 229, 229);&quot; data-track-position=&quot;B4&quot;&gt;&lt;td style=&quot;padding: 2px 0px; position: relative; white-space: nowrap; width: 0.0703125px;&quot; class=&quot;position_2Kr__&quot;&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px 0px; width: 0px;&quot; class=&quot;artist_1mUch&quot;&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px; width: 787.516px; word-break: break-word; position: relative;&quot; class=&quot;trackTitleNoArtist_ANE8Q&quot;&gt;&lt;span style=&quot;user-select: text !important;&quot;&gt;Oh France&lt;/span&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px 10px 2px 2px; color: rgb(68, 68, 68); width: 0.0078125px;&quot; class=&quot;duration_25zMZ&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;vertical-align: top; border-top: 1px solid rgb(229, 229, 229);&quot; data-track-position=&quot;B5&quot;&gt;&lt;td style=&quot;padding: 2px 0px; position: relative; white-space: nowrap; width: 0.0703125px;&quot; class=&quot;position_2Kr__&quot;&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px 0px; width: 0px;&quot; class=&quot;artist_1mUch&quot;&gt;&lt;/td&gt;&lt;td style=&quot;padding: 2px; width: 787.516px; word-break: break-word; position: relative;&quot; class=&quot;trackTitleNoArtist_ANE8Q&quot;&gt;&lt;span style=&quot;user-select: text !important;&quot;&gt;Modern Slaves&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="-274" y="413" width="148" height="223.5" as="geometry" />
+        </mxCell>
+        <mxCell id="n8EsOzykJix-w6ePL4Zs-141" value="Track list" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272" y="357" width="102" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="n8EsOzykJix-w6ePL4Zs-143" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="n8EsOzykJix-w6ePL4Zs-141" target="n8EsOzykJix-w6ePL4Zs-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8EsOzykJix-w6ePL4Zs-148" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228.5" y="415" width="137.5" height="226" as="geometry" />
+        </mxCell>
+        <mxCell id="n8EsOzykJix-w6ePL4Zs-149" value="I Am Trying To Break Your Heart&#x9;6:57&#xa;Kamera&#x9;3:29&#xa;Radio Cure&#x9;5:08&#xa;War On War&#x9;3:47&#xa;Jesus, Etc.&#x9;3:50&#xa;Ashes Of American Flags&#x9;4:43&#xa;Heavy Metal Drummer&#x9;3:08&#xa;I&#39;m The Man Who Loves You&#x9;3:55&#xa;Pot Kettle Black&#x9;4:00&#xa;Poor Places&#x9;5:15&#xa;Reservations" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230.5" y="416" width="143.5" height="186" as="geometry" />
+        </mxCell>
+        <mxCell id="n8EsOzykJix-w6ePL4Zs-150" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.365;entryY=0.015;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="n8EsOzykJix-w6ePL4Zs-141" target="n8EsOzykJix-w6ePL4Zs-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8EsOzykJix-w6ePL4Zs-151" value="contains" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="n8EsOzykJix-w6ePL4Zs-150">
+          <mxGeometry x="-0.1139" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n8EsOzykJix-w6ePL4Zs-157" value="contains" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="n8EsOzykJix-w6ePL4Zs-153" target="n8EsOzykJix-w6ePL4Zs-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n8EsOzykJix-w6ePL4Zs-153" value="track-list" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="344" width="114" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="n8EsOzykJix-w6ePL4Zs-155" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="734" y="401.5" width="158" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="n8EsOzykJix-w6ePL4Zs-156" value="La Femme D&#39;argent&#x9;7:08&#xa;Sexy Boy&#x9;4:57&#xa;All I Need&#x9;4:28&#xa;Kelly Watch The Stars&#x9;3:44&#xa;Talisman&#x9;4:16&#xa;Remember&#x9;2:34&#xa;You Make It Easy&#x9;4:00&#xa;Ce Matin Là&#x9;3:38&#xa;New Star In The Sky&#x9;5:38&#xa;Le Voyage De Pénélope" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="741" y="419" width="173" height="166" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
